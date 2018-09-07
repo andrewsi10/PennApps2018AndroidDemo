@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PennApps2018</string>
+    <string name="gyms">Gyms</string>
+    <string name="gym_name">Gym Name</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="tap_to_load_gyms">Tap to load gyms</string>
+</resources>
